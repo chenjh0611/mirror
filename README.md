@@ -18,4 +18,5 @@
 [Mega网盘下载](https://mega.nz/#F!MRhXVIAL!hLyLBQlT0oypcyykqHc-aw)(只能用Chrome或火狐下载)  
 
 蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。
+
 蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
