@@ -17,4 +17,5 @@
 [Evernote下载](https://www.evernote.com/shard/s510/sh/93cabf92-efe2-4d32-bc1c-04d7ceca6c0f/d4042644da931ff66f9a1071e1699163)
 [Mega网盘下载](https://mega.nz/#F!MRhXVIAL!hLyLBQlT0oypcyykqHc-aw)(只能用Chrome或火狐下载)  
 
-蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
+蓝灯(Lantern)官方网站是 https://getlantern.org 其它网站均为假冒。
+蓝灯官方中文论坛请访问 https://github.com/getlantern/forum
